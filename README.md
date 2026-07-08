@@ -14,7 +14,7 @@ and charts, so the models are easy to follow and easy to re-run with your own nu
 
 ## Notebooks
 
-### 1. [Personal Finance Calculator](notebooks/personal_finance_calculator.ipynb)
+### 1. [Personal Finance Calculator](personal_finance_calculator.ipynb)
 
 A personal toolkit for everyday money questions, in AUD and using the Australian superannuation
 system. Five small models:
@@ -25,7 +25,7 @@ system. Five small models:
 - **Superannuation** — a projection to retirement with contributions, wage growth, and returns
 - **Financial independence (FIRE)** — the 4% rule and years-to-FI
 
-### 2. [Equity Valuation — A Worked Example](notebooks/stock_price_valuation.ipynb)
+### 2. [Equity Valuation — A Worked Example](stock_price_valuation.ipynb)
 
 The standard valuation toolkit applied to one illustrative company, comparing what each method
 implies for intrinsic value:
