@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+jupyter
+yfinance   # optional — only for the live-data cell in the valuation notebook
